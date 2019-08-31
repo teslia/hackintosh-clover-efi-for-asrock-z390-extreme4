@@ -16,6 +16,7 @@ You must use Clover Configurator to modify the serial number in config. plist!
 ## 已测试项目
 - [x] CPU变频
 - [x] 显卡硬件加速(QE/CI)
+- [x] 板载ALC1220 音频输出 
 - [x] DisplayPort 视频/音频输出
 - [x] USB3.0 USB2.0
 - [x] 有线网卡
