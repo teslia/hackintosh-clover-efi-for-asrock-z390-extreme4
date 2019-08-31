@@ -24,7 +24,7 @@ You must use Clover Configurator to modify the serial number in config. plist!
 
 ## 我的配置 My hardware list
 - Intel Core I9 9900k
-- Samsumg SSD SATA 128G
+- Lexar SSD 480G NVM.e
 - DDR4 2666 8G x4 
 - VP2780 4K Display use DisplayPort
 
