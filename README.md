@@ -1,11 +1,7 @@
 # hackintosh-clover-efi-for-asrock-z390-extreme4
 Asrock Z390 Extreme4 Clover EFI files.
 
-EFI 用于 10.14.6 测试可以正常使用。
-以下版本也测试通过   
-10.14.5   
-
-OSX Tested:   
+## 已测试OSX版本 OSX Tested   
 ##### Catalina    
     
 10.15
@@ -23,11 +19,11 @@ You must use Clover Configurator to modify the serial number in config. plist!
 
 ## 已测试项目
 - [x] CPU变频
-- [x] 显卡硬件加速(QE/CI)
-- [x] 板载ALC1220 音频输出 
-- [x] DisplayPort 视频/音频输出
-- [x] USB3.0 USB2.0
-- [x] 有线网卡
+- [x] 显卡硬件加速(QE/CI)（Intel UHD Graphics 630 OK）
+- [x] 板载ALC1220 音频输出  （ALC1220 Soundcard OK）
+- [x] DisplayPort 视频/音频输出 （DP OK）
+- [x] USB2.0
+- [x] 有线网卡（Intel ETH OK）
 - [x] 睡眠和唤醒
 
 ## 我的配置 My hardware list
@@ -47,3 +43,9 @@ You must use Clover Configurator to modify the serial number in config. plist!
     - Super IO Configuration, Disabled	
 3. Security	
 Secure Boot, Disabled(by default)	
+
+## Screenshots
+![image1](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/blob/master/Screenshots/1.png?raw=true)
+![image2](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/blob/master/Screenshots/2.png?raw=true)
+![image3](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/blob/master/Screenshots/3.png?raw=true)
+![image4](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/blob/master/Screenshots/4.png?raw=true)
