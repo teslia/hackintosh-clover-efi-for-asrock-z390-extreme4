@@ -6,8 +6,16 @@ EFI 用于 10.14.6 测试可以正常使用。
 10.14.5   
 
 OSX Tested:   
-10.14.6   
-10.14.5   
+##### Catalina    
+    
+10.15
+
+##### Mojave      
+*分支未测试，如果有问题请使用10.14分支！*     
+*The master branch is NOT Tested，Please use `10.14` branch if not work.*      
+    
+10.14.6     
+10.14.5    
 
 ## 重要说明！ Attention!
 请使用Clover Configurator修改config.plist中的序列号！
