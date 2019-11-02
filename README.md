@@ -1,6 +1,7 @@
 # hackintosh-clover-efi-for-asrock-z390-extreme4
 华擎Z390 极限玩家4 黑苹果EFI文件    
 Asrock Z390 Extreme4 Clover EFI files    
+BIOS Version: 4.20     
 
 ## 已测试OSX版本 OSX Tested   
 ##### Catalina    
