@@ -16,7 +16,7 @@ BIOS Version: 4.20
 10.14.5    
 
 ## 重要说明！ Attention!
-请使用Clover Configurator修改config.plist中的序列号！
+请使用Clover Configurator修改config.plist中的序列号！     
 You must use Clover Configurator to modify the serial number in config. plist!
 
 ## 已测试项目
