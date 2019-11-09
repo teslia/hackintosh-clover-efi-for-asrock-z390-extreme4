@@ -16,8 +16,11 @@ BIOS Version: 4.20
 10.14.5    
 
 ## 重要说明！ Attention!
-请使用Clover Configurator修改config.plist中的序列号！     
-You must use Clover Configurator to modify the serial number in config. plist!
+请使用[Clover Configurator](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/tree/master/Tools)修改config.plist中的序列号！     
+You must use [Clover Configurator](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/tree/master/Tools) to modify the serial number in config. plist!
+    
+修改方法请参考[这里](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/tree/master/Change%20SN)    
+Steps is [here](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-extreme4/tree/master/Change%20SN)    
 
 ## 已测试项目
 - [x] CPU变频
