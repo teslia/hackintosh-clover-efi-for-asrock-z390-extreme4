@@ -37,7 +37,7 @@ Steps is [here](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-
 - DDR4 2666 8G x4 
 - VP2780 4K Display use DisplayPort
 
-## Bios Set:	
+## BIOS Set:	
 1. Load UEFI Defaults	
 2. Advanced	
     - CPU Intel Virtualization Technology: Enabled	 
