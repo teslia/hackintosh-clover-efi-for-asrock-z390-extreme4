@@ -1,6 +1,7 @@
 # hackintosh-clover-efi-for-asrock-z390-extreme4
 华擎Z390 极限玩家4 黑苹果EFI文件    
 Asrock Z390 Extreme4 Clover EFI files    
+BIOS Version: 4.20     
 
 ## 已测试OSX版本 OSX Tested   
 ##### Catalina    
@@ -15,7 +16,7 @@ Asrock Z390 Extreme4 Clover EFI files
 10.14.5    
 
 ## 重要说明！ Attention!
-请使用Clover Configurator修改config.plist中的序列号！
+请使用Clover Configurator修改config.plist中的序列号！     
 You must use Clover Configurator to modify the serial number in config. plist!
 
 ## 已测试项目
