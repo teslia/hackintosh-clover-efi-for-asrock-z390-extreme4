@@ -6,6 +6,9 @@ BIOS Version: 4.20
 ## 已测试OSX版本 OSX Tested   
 ##### Catalina    
     
+10.15.3
+10.15.2
+10.15.1
 10.15
 
 ##### Mojave      
@@ -32,12 +35,12 @@ Steps is [here](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-
 - [x] 睡眠和唤醒
 
 ## 我的配置 My hardware list
-- Intel Core I9 9900k
+- Intel Core I9 9900K
 - Lexar SSD 480G NVM.e
 - DDR4 2666 8G x4 
 - VP2780 4K Display use DisplayPort
 
-## BIOS Set:	
+## BIOS Settings:	
 1. Load UEFI Defaults	
 2. Advanced	
     - CPU Intel Virtualization Technology: Enabled	 
