@@ -33,8 +33,14 @@ Steps is [here](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-
 - [x] USB 2.0 / USB 3.0
 - [x] 有线网卡（Intel ETH OK）
 - [x] 睡眠和唤醒
+- [x] NVRAM模拟 (use Clover rcScript)
+   
+## NVRAM
+由于Z390无法支持原生NVRAM，需要使用模拟NVRAM，将NVRAM/rcScript中的目录放入指定的位置重启即可支持。   
+etc目录中的所有文件放入/etc   
+Library目录中所有文件放入/Library   
 
-## 我的配置 My hardware list
+## 我的配置 My hardware infomation
 - Intel Core I9 9900K
 - Lexar SSD 480G NVM.e
 - DDR4 2666 8G x4 
