@@ -117,11 +117,6 @@
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
-		<key>FakeID</key>
-		<dict>
-			<key>IntelGFX</key>
-			<string>0x3E9B8086</string>
-		</dict>
 		<key>USB</key>
 		<dict>
 			<key>FixOwnership</key>
@@ -156,8 +151,6 @@
 			<key>Intel</key>
 			<true/>
 		</dict>
-		<key>ig-platform-id</key>
-		<string>0x3E9B0007</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
