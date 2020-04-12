@@ -1,11 +1,17 @@
 # hackintosh-clover-efi-for-asrock-z390-extreme4
 华擎Z390 极限玩家4 黑苹果EFI文件    
 Asrock Z390 Extreme4 Clover EFI files    
-BIOS Version: 4.20     
+BIOS Version: 4.30     
+
+## OpenCore Version (OC版本)
+推荐使用OC版本！   
+OC version is recommended!   
+https://github.com/teslia/hackintosh-opencore-efi-for-asrock-z390-extreme4
 
 ## 已测试OSX版本 OSX Tested   
 ##### Catalina    
-    
+
+10.15.4  
 10.15.3   
 10.15.2   
 10.15.1   
@@ -35,6 +41,9 @@ Steps is [here](https://github.com/teslia/hackintosh-clover-efi-for-asrock-z390-
 - [x] 睡眠和唤醒
 - [x] NVRAM模拟 (use Clover rcScript)
    
+## 无法使用(Failed feature)
+- [ ] HDMI   
+
 ## NVRAM
 由于Z390无法支持原生NVRAM，需要使用模拟NVRAM，将NVRAM/rcScript中的目录放入指定的位置重启即可支持。   
 etc目录中的所有文件放入/etc   
