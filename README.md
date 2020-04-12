@@ -50,7 +50,7 @@ etc目录中的所有文件放入/etc
 Library目录中所有文件放入/Library   
 
 ## 我的配置 My hardware infomation
-- Intel Core I9 9900K
+- Intel Core i9 9900K
 - Lexar SSD 480G NVM.e
 - DDR4 2666 8G x4 
 - VP2780 4K Display use DisplayPort
